@@ -1,6 +1,6 @@
 # justsock -- just some sockets :]
 
-Litte lib for basic using sockets. It's annoying to do all this work every time, so I put here some of this operations by template and use it as lib.
+Little lib for basic using sockets. I put here some of frequently socket operations like template and use it as lib.
 
 > This little repo is Linux-only compatibility.
 
