@@ -1,6 +1,6 @@
 VERSION::= 0.0.1
 
-NAME::= somesock
+NAME::= justsock
 SONAME::= lib${NAME}.so.${VERSION}
 INCLUDE::= ${INCLDIR}/${NAME}.h
 

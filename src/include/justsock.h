@@ -1,8 +1,3 @@
-#include <unistd.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
-#include <netdb.h>
-#include <arpa/inet.h>
 
 #define NAMELEN					256
 #define MAGIC_COUNT				16
